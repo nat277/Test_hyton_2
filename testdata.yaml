@@ -1,0 +1,20 @@
+path_login: 'https://test-stand.gb.ru/gateway/login'
+path_post: 'https://test-stand.gb.ru/api/posts'
+login: 'Monica Kunde V'
+password: 'add9b80be1'
+id_check: 93277
+title: 'Александр Пушкин'
+description: 'Стих'
+
+content: 'Я помню чудное мгновенье:
+Передо мной явилась ты,
+Как мимолетное виденье,
+Как гений чистой красоты.
+В томленьях грусти безнадежной,
+В тревогах шумной суеты,
+Звучал мне долго голос нежный
+И снились милые черты.'
+
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 2
